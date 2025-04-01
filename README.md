@@ -2,7 +2,7 @@
 
 In this assignment, we signed up MongoDB Atlas, installed MongoDB Community Edition, and ran queries in MongoDB Compass.
 
-The first query instructions were: **Find all movies with runtime greater than 200 minutes in year 1983. The result should include a list of objects sorted by runtime increasing, and each object only has three fields: runtime, title, year. An example result is shown in the following screenshot.**
+The first query instructions were: **Find all movies with runtime greater than 200 minutes in year 1983. The result should include a list of objects sorted by runtime increasing, and each object only has three fields: runtime, title, year.**
 
 Here is my query and results:
 
